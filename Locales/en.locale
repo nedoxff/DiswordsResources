@@ -1,1 +1,2 @@
 PingMessage => Ping of our bot: `{0}ms`\nPing of slash commands: `{1}ms`
+GuildJoinedText => Hello! Thanks for adding me :)\nPlease give me a few seconds while I setup the database..
