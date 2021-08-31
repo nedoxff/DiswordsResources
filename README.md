@@ -11,6 +11,10 @@ Contains an empty database, filled with language dictionaries.
 
 Contains the version of the database. (e.g. "1.0.0")
 
+### `languages.txt`
+
+Languages that can be pushed into the database.
+
 ### `ru.zip`
 
 Contains the russian dictionary (~1.5 million words)
