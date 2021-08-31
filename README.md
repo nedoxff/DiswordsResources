@@ -7,14 +7,14 @@ Files required for Diswords (my discord bot) to operate!
 
 Languages that can be pushed into the database.
 
-### `ru.zip`
+### `locales.txt`
 
-Contains the russian dictionary (~1.5 million words)
+Languages that the bot can use for messages.
 
-The original repository can be found [here.](https://github.com/danakt/russian-words)
+### `Dictionaries/`
 
-### `en.zip`
+Contains language dictionaries for the bot.
 
-Contains the english dictionary (~400 thousand words)
+### `Locales/`
 
-The original repository can be found [here.](https://github.com/dwyl/english-words)
+Contains locale files for the bot.
