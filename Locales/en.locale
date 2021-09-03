@@ -6,3 +6,7 @@ _NativeName => English
 PingMessage => Ping of our bot: `{0}ms`\nPing of slash commands: `{1}ms`
 GuildJoinedText => Thanks for adding me :)\nPlease give me a few seconds while I setup the database..
 GuildJoinedFinish => If you want a different language rather than english, please use `/language list` and `/language set`.\nHappy playing! :)
+
+Calculating => Calculating..
+GiveMeAMoment => Give me a moment..
+AvailableLanguages => Available languages:
