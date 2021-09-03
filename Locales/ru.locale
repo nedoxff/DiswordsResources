@@ -6,7 +6,7 @@ _NativeName => Русский
 //NOTES:
 //GuildJoinedText and GuildJoinedFinish shouldn't exist in other languages rather than english.
 
-PingMessage => Пинг нашего бота: `{0}ms`\nПинг слэш команд: `{1}ms`
+PingMessage => Пинг нашего бота: `{0}ms`\nПинг команд: `{1}ms`
 
 Calculating => Считаю..
 GiveMeAMoment => Секундочку..
