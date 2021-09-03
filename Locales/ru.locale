@@ -1,2 +1,4 @@
+//NOTES:
+//GuildJoinedText shouldn't exist in other languages rather than english.
+
 PingMessage => Пинг нашего бота: `{0}ms`\nПинг слэш команд: `{1}ms`
-GuildJoinedText => Привет! Спасибо что добавили меня :)\nПожалуйста, дайте мне пару секунд пока я настрою базу данных..
