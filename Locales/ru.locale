@@ -13,7 +13,7 @@ GiveMeAMoment => Секундочку..
 AvailableLanguages => Доступные языки:
 
 LanguageChanged => Язык сервера успешно изменён на Русский! ✅
-SelectLanguage => Пожалуйста, выберите новый язык:
+SelectLanguage => Пожалуйста, выберите язык:
 
 Success => Успех!
 Error => Ошибка!

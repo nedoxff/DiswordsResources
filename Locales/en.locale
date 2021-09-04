@@ -9,7 +9,7 @@ GuildJoinedFinish => If you want a different language rather than english, pleas
 
 Calculating => Calculating..
 GiveMeAMoment => Give me a moment..
-SelectLanguage => Please, select the new language:
+SelectLanguage => Please, select the language:
 
 LanguageChanged => Successfully changed the language to English! ✅
 
