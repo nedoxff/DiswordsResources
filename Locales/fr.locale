@@ -1,0 +1,31 @@
+ 
+_Name => French
+_ShortName => fr
+_Flag => 🇫🇷
+_NativeName => Français
+
+PingMessage => Ping de notre bot: `{0}ms`\nPing du délai de commande: `{1}ms`
+GuildJoinedText => Merci de m'avoir ajouté :)\nVeuillez patienter quelques secondes que j'installe la base de données..
+GuildJoinedFinish => Si vous voulez une autre language, utilisez `/language list` et `/language set`.\nBon jeu! :)
+
+Calculating => Calcul en cours..
+GiveMeAMoment => Laisse moi une seconde..
+SelectLanguage => Veuillez séléctionner une langue:
+
+LanguageChanged => Sélectionné le français! ✅
+
+Success => Réussite!
+Error => Erreur!
+TimedOut => Délai dépassé!
+
+GameCreate_RoomOrChannel => Jouerons-nous dans ce channel ou dans un nouveau salon ?
+GameCreate_Room => Nouveau salon
+GameCreate_Channel => Salon actif (ce channel)
+GameCreate_TimedOut => On jouera la prochaine fois.. (délai dépassé)
+GameCreate_PrivateRoom => Est-ce que vous voulez que ce salon soit privé ? (les autres joueurs ne verront pas l'ID)
+
+Yes => Oui
+No => Non
+
+GameType_Normal => Normal
+SelectGameType => Veuillez séléctionner le type de partie:
