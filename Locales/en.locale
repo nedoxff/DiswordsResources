@@ -16,6 +16,7 @@ LanguageChanged => Successfully changed the language to English! ✅
 
 Success => Success!
 Error => Error!
+TimedOut => Timed out!
 
 GameCreate_RoomOrChannel => First off, will we play in this channel or in a new room?
 GameCreate_Room => New room
