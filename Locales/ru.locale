@@ -17,3 +17,9 @@ LanguageChanged => Язык сервера успешно изменён на Р
 
 Success => Успех!
 Error => Ошибка!
+TimedOut => Время вышло!
+
+GameCreate_RoomOrChannel => Так, мы будем играть в этом канале или в новой комнате?
+GameCreate_Room => Новая комната
+GameCreate_Channel => Текущий канал
+GameCreate_TimedOut => Ну, значит потом поиграем.. (Время вышло)
