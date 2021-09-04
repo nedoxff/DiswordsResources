@@ -14,6 +14,7 @@ AvailableLanguages => Доступные языки:
 
 LanguageDoesNotExist => Я искал язык с именем `{0}`, однако получил 404.
 LanguageChanged => Язык сервера успешно изменён на Русский! ✅
+SelectLanguage => Пожалуйста, выберите новый язык:
 
 Success => Успех!
 Error => Ошибка!
