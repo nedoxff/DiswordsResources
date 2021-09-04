@@ -9,10 +9,15 @@ GuildJoinedFinish => If you want a different language rather than english, pleas
 
 Calculating => Calculating..
 GiveMeAMoment => Give me a moment..
-AvailableLanguages => Available languages:
+SelectLanguage => Please, select the new language:
 
 LanguageDoesNotExist => I searched for the language `{0}`, but got a 404 instead.
-LanguageChanged => Successfully changed the language to English!
+LanguageChanged => Successfully changed the language to English! ✅
 
 Success => Success!
 Error => Error!
+
+GameCreate_RoomOrChannel => First off, will we play in this channel or in a new room?
+GameCreate_Room => New room
+GameCreate_Channel => Current channel
+GameCreate_TimedOut => Well, I guess we'll play next time.. (Timed out)
