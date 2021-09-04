@@ -11,3 +11,9 @@ PingMessage => Пинг нашего бота: `{0}ms`\nПинг команд: `
 Calculating => Считаю..
 GiveMeAMoment => Секундочку..
 AvailableLanguages => Доступные языки:
+
+LanguageDoesNotExist => Я искал язык с именем `{0}`, однако получил 404.
+LanguageChanged => Язык сервера успешно изменён на Русский!
+
+Success => Успех!
+Error => Ошибка!

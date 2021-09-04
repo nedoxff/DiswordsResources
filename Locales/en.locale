@@ -10,3 +10,9 @@ GuildJoinedFinish => If you want a different language rather than english, pleas
 Calculating => Calculating..
 GiveMeAMoment => Give me a moment..
 AvailableLanguages => Available languages:
+
+LanguageDoesNotExist => I searched for the language `{0}`, but got a 404 instead.
+LanguageChanged => Successfully changed the language to English!
+
+Success => Success!
+Error => Error!
