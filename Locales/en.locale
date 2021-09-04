@@ -11,7 +11,6 @@ Calculating => Calculating..
 GiveMeAMoment => Give me a moment..
 SelectLanguage => Please, select the new language:
 
-LanguageDoesNotExist => I searched for the language `{0}`, but got a 404 instead.
 LanguageChanged => Successfully changed the language to English! ✅
 
 Success => Success!
@@ -22,3 +21,6 @@ GameCreate_RoomOrChannel => First off, will we play in this channel or in a new 
 GameCreate_Room => New room
 GameCreate_Channel => Current channel
 GameCreate_TimedOut => Well, I guess we'll play next time.. (Timed out)
+
+GameType_Normal => Normal
+SelectGameType => Please, select the game type:
