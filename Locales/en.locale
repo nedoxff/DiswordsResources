@@ -21,6 +21,11 @@ GameCreate_RoomOrChannel => First off, will we play in this channel or in a new 
 GameCreate_Room => New room
 GameCreate_Channel => Current channel
 GameCreate_TimedOut => Well, I guess we'll play next time.. (Timed out)
+GameCreate_PrivateRoom => Do you want the room to be private? (other players won't see the ID.)
+
+Yes => Yes
+No => No
 
 GameType_Normal => Normal
 SelectGameType => Please, select the game type:
+
