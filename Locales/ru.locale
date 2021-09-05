@@ -23,6 +23,10 @@ GameCreate_RoomOrChannel => Так, мы будем играть в этом к�
 GameCreate_Room => Новая комната
 GameCreate_Channel => Текущий канал
 GameCreate_TimedOut => Ну, значит потом поиграем.. (Время вышло)
+GameCreate_CreatingChannel => Создаю новый канал..
+GameCreate_CreatingGame => Создаю игру..
+GameCreate_GeneratingId => Получаю уникальный ID..
+GameCreate_GeneratingImage => Создаю картинку..
 
 GameType_Normal => Обычный
 SelectGameType => Пожалуйста, выберите режим игры:

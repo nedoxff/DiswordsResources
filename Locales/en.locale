@@ -22,6 +22,10 @@ GameCreate_Room => New room
 GameCreate_Channel => Current channel
 GameCreate_TimedOut => Well, I guess we'll play next time.. (Timed out)
 GameCreate_PrivateRoom => Do you want the room to be private? (other players won't see the ID.)
+GameCreate_CreatingChannel => Creating a new channel..
+GameCreate_CreatingGame => Creating the game..
+GameCreate_GeneratingId => Generating a unique ID..
+GameCreate_GeneratingImage => Generating the image..
 
 Yes => Yes
 No => No
