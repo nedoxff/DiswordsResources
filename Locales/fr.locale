@@ -5,8 +5,6 @@ _Flag => 🇫🇷
 _NativeName => Français
 
 PingMessage => Ping de notre bot: `{0}ms`\nPing du délai de commande: `{1}ms`
-GuildJoinedText => Merci de m'avoir ajouté :)\nVeuillez patienter quelques secondes que j'installe la base de données..
-GuildJoinedFinish => Si vous voulez une autre language, utilisez `/language list` et `/language set`.\nBon jeu! :)
 
 Calculating => Calcul en cours..
 GiveMeAMoment => Laisse moi une seconde..
