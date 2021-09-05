@@ -29,3 +29,5 @@ No => No
 GameType_Normal => Normal
 SelectGameType => Please, select the game type:
 
+SelectCategory => Please, select the category:
+CategoryChanged => Successully attached game channels to `{0}`!
