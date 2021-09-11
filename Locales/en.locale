@@ -37,7 +37,7 @@ SelectCategory => Please, select the category:
 CategoryChanged => Successully attached game channels to `{0}`!
 
 Room_FirstMessage_Title => Heyo!
-Room_FirstMessage => Here's some stuff to get you started:\n`dw.language` will show the current last letter.\nWith `dw.suggest` you can suggest a new word to be added in the database.\nMore coming soon!
+Room_FirstMessage => Here's some stuff to get you started:\n`dw.letter` will show the current last letter.\nWith `dw.suggest` you can suggest a new word to be added in the database.\nMore coming soon!
 
 //Fast mode is currently not implemeted.
 //FastGame_Start => We will start when everyone reacts with ✅ to this message.
